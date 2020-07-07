@@ -1,0 +1,16 @@
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+#google-logo {
+    padding-top: 150px;
+}
+
+#search-bar {
+    display: block;
+    margin: 20px auto 0 auto;
+    width: 33%;
+    height: 48px;
+    
+}
