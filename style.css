@@ -30,6 +30,11 @@ li a:hover {
     padding-top: 150px;
 }
 
+main {
+    display: block;
+    height: 90vh;
+}
+
 #search-bar {
     display: block;
     margin: 20px auto 0 auto;
@@ -62,6 +67,3 @@ button {
     margin-top: 20px;
 }
 
-#United-Kingdom {
-    margin: 200px 0 0 0;
-}
